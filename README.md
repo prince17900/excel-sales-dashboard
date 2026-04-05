@@ -24,7 +24,7 @@ This project is an interactive Excel dashboard created to analyze sales performa
 
 📷 Dashboard Preview
 
-(Add your screenshot here)
+![Dashboard](dashboard.png)
 
 📁 Files Included
 
